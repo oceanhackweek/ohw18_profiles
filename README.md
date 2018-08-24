@@ -6,3 +6,6 @@ Extract and compare depth profile data from multiple sources in the OOI Enduranc
 - Emilio Mayorga, @emiliom
 - Craig Risien, @crisien
 - Christian Saranson?
+
+## Resources
+- [Glider DAC "IOOS Access" notebook](https://github.com/oceanhackweek/ohw2018_tutorials/blob/master/day2/ioos_data_access/03-gliderdac_erddapy.ipynb)
