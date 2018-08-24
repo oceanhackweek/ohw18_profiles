@@ -2,7 +2,7 @@
 Extract and compare depth profile data from multiple sources in the OOI Endurance Array. Profilers, gliders, models. From OOI, IOOS/NANOOS, etc.
 
 ## Participants
-- Joseph Gum
-- Emilio Mayorga
-- Craig Risien
+- Joseph Gum, @asx-
+- Emilio Mayorga, @emiliom
+- Craig Risien, @crisien
 - Christian Saranson?
